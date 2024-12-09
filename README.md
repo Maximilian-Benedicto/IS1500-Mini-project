@@ -29,3 +29,6 @@ The switches and buttons on the card can be used to control the simulation. See 
 | btn0    | Stop simulation                 |
 | led0-9  | Indicate which switches are enabled |
 
+## Authors
+Arman Montazeri
+Maximilian Benedicto
