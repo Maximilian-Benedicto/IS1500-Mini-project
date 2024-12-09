@@ -32,3 +32,10 @@ The switches and buttons on the card can be used to control the simulation. See 
 ## Authors
 * Arman Montazeri
 * Maximilian Benedicto
+
+## Images
+
+![Minecraft Skyblock](./img/inspiration.png)
+![Wireframe Render](./img/wireframe.png)
+![Z-Buffer](./img/zbuffer.png)
+
